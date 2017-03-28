@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bachillerato. Trigonometria
+title: Bachillerato. Trigonometría
 ---
 
 En esta entrada veremos un resumen de trigonometria y muuuchooos problemas .... (mostrar abajo).
